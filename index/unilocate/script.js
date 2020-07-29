@@ -2,9 +2,9 @@ function alusta()
   {
     document.getElementById("kyssa").innerHTML  = "Kas sulle meeldivad humanitaar- või reaalteadused?";
     document.getElementById("alusta").style.display = 'none';
-    document.getElementById("r1").style.display = 'inline';
-    document.getElementById('h1').style.display = 'inline';
-    document.getElementById('v1').style.display = 'inline';
+    document.getElementById("n11").style.display = 'inline';
+    document.getElementById('n12').style.display = 'inline';
+    document.getElementById('n13').style.display = 'inline';
   }
 
 function n1()
