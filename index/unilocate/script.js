@@ -35,7 +35,7 @@ function n3()
     document.getElementById('n42').style.display = 'inline';
   }
 
-function n2()
+function n4()
   {
     document.getElementById("kyssa").innerHTML  ="Kas sa sooviksid rohkem inimesi aidata või midagi luua";
     document.getElementById("n41").style.display = 'none';
@@ -44,11 +44,11 @@ function n2()
     document.getElementById('n52').style.display = 'inline';
   }
 
-  function n3()
-    {
-      document.getElementById("kyssa").innerHTML  ="Kas oskad hästi kriitiliselt mõelda?";
-      document.getElementById("n51").style.display = 'none';
-      document.getElementById('n52').style.display = 'none';
-      document.getElementById('n61').style.display = 'inline';
-      document.getElementById('n62').style.display = 'inline';
-    }
+function n5()
+  {
+    document.getElementById("kyssa").innerHTML  ="Kas oskad hästi kriitiliselt mõelda?";
+    document.getElementById("n51").style.display = 'none';
+    document.getElementById('n52').style.display = 'none';
+    document.getElementById('n61').style.display = 'inline';
+    document.getElementById('n62').style.display = 'inline';
+  }
